@@ -5,12 +5,10 @@
 
 	<groupId>com.enjoy.dh</groupId>
 	<artifactId>CICDSample</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-
 	<name>CICDSample</name>
 	<description>Demo project for Spring Boot</description>
-
+	<version>1.0.0</version>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
@@ -45,6 +43,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
+	
 </project>
